@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "dependencies": {
+    "uglify-js": "^3.19.3"
+  },
+  "name": "compare.js",
+  "version": "1.0.0",
+  "main": "compare.js",
+  "author": "yeahmono <619868796@qq.com> (https://github.com/yeahmono)",
+  "license": "MIT",
+  "description": "JavaScript deep comparison function"
+}
